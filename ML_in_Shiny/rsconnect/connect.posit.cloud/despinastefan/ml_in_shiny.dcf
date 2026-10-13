@@ -6,7 +6,7 @@ server: connect.posit.cloud
 hostUrl: https://api.connect.posit.cloud/v1
 appId: 01a13630-e7d5-b698-7aed-bfe395b883b6
 bundleId:
-url:
+url: https://connect.posit.cloud/despinastefan/content/01a13630-e7d5-b698-7aed-bfe395b883b6
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
